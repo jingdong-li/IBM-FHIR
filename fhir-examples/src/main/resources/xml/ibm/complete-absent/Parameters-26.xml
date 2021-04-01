@@ -50,37 +50,5 @@
         <valueCode value="unknown"/>
       </extension>
     </name>
-    <valueMeta>
-      <versionId>
-        <extension url="http://hl7.org/fhir/StructureDefinition/data-absent-reason">
-          <valueCode value="unknown"/>
-        </extension>
-      </versionId>
-      <lastUpdated>
-        <extension url="http://hl7.org/fhir/StructureDefinition/data-absent-reason">
-          <valueCode value="unknown"/>
-        </extension>
-      </lastUpdated>
-      <source>
-        <extension url="http://hl7.org/fhir/StructureDefinition/data-absent-reason">
-          <valueCode value="unknown"/>
-        </extension>
-      </source>
-      <profile>
-        <extension url="http://hl7.org/fhir/StructureDefinition/data-absent-reason">
-          <valueCode value="unknown"/>
-        </extension>
-      </profile>
-      <security>
-        <extension url="http://hl7.org/fhir/StructureDefinition/data-absent-reason">
-          <valueCode value="unknown"/>
-        </extension>
-      </security>
-      <tag>
-        <extension url="http://hl7.org/fhir/StructureDefinition/data-absent-reason">
-          <valueCode value="unknown"/>
-        </extension>
-      </tag>
-    </valueMeta>
   </parameter>
 </Parameters>
