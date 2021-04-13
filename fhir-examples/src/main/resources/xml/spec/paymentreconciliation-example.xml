@@ -32,7 +32,7 @@
 	</paymentIssuer>
 
 	<request>
-		<reference value="http://www.BenefitsInc.com/fhir/eligibility/225476332402"/>
+		<reference value="http://www.BenefitsInc.com/fhir/Task/225476332402"/>
 	</request>
 
 	<requestor>
@@ -104,7 +104,7 @@
 			</coding>
 		</type>
 		<request>
-			<reference value="http://www.BenefitsInc.com/fhir/oralhealthclaim/225476332699"/>
+			<reference value="http://www.BenefitsInc.com/fhir/Claim/225476332699"/>
 		</request>
 		<date value="2014-08-12"/>
 		<amount>

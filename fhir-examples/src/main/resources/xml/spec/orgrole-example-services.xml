@@ -37,7 +37,7 @@
     </participatingOrganization>
 
     <network> <!--   Independence and Founding Father providers participate in the Patriot Preferred Provider Network   -->
-        <reference value="http://hl7.org/fhir/ig/vhdir/Network/patriotppo"/>
+        <reference value="http://hl7.org/fhir/ig/vhdir/Organization/patriotppo"/>
         <display value="Patriot Preferred Provider Network"/>
     </network>
 

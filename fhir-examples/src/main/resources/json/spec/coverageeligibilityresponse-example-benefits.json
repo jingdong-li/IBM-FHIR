@@ -22,7 +22,7 @@
   "servicedDate": "2014-09-17",
   "created": "2014-08-16",
   "request": {
-    "reference": "http://www.BenefitsInc.com/fhir/coverageeligibilityresponse/225476332402"
+    "reference": "http://www.BenefitsInc.com/fhir/CoverageEligibilityRequest/225476332402"
   },
   "outcome": "complete",
   "disposition": "Policy is currently in-force.",

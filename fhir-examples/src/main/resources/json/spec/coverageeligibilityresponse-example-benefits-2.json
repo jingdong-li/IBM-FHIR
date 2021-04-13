@@ -107,7 +107,7 @@
     }
   },
   "request": {
-    "reference": "http://www.BenefitsInc.com/fhir/coverageeligibilityrequest/225476332405"
+    "reference": "http://www.BenefitsInc.com/fhir/CoverageEligibilityRequest/225476332405"
   },
   "outcome": "complete",
   "disposition": "Policy is currently in-force.",

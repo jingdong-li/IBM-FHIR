@@ -112,7 +112,7 @@
 	</requestor>
 
 	<request>
-		<reference value="http://www.BenefitsInc.com/fhir/coverageeligibilityrequest/225476332405"/>
+		<reference value="http://www.BenefitsInc.com/fhir/CoverageEligibilityRequest/225476332405"/>
 	</request>
 
 	<outcome value="complete"/>

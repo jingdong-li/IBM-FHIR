@@ -26,7 +26,7 @@
     }
   },
   "request": {
-    "reference": "http://www.BenefitsInc.com/fhir/coverageeligibilityresponse/225476332406"
+    "reference": "http://www.BenefitsInc.com/fhir/CoverageEligibilityRequest/225476332406"
   },
   "outcome": "error",
   "disposition": "Eligibiliy request could not be processed, please address errors before submitting.",

@@ -29,7 +29,7 @@
 	<created value="2014-08-16"/>
 
 	<request>
-		<reference value="http://www.BenefitsInc.com/fhir/coverageeligibilityrequest/225476332402"/>
+		<reference value="http://www.BenefitsInc.com/fhir/CoverageEligibilityRequest/225476332402"/>
 	</request>
 
 	<outcome value="complete"/>
